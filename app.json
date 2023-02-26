@@ -4,10 +4,10 @@
     "slug": "myproject",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/chargue-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/chargue-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
